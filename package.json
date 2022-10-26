@@ -1,0 +1,26 @@
+{
+  "name": "scaleupxq-proff.no",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "puppeteer",
+    "chrome",
+    "headless",
+    "web-scraping"
+  ],
+  "author": "landaida.1@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "json-2-csv": "^3.17.2",
+    "json2csv": "^5.0.7",
+    "log4js": "^6.7.0",
+    "moment": "^2.29.4",
+    "puppeteer": "^19.2.0"
+  }
+}
